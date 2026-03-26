@@ -1,4 +1,4 @@
-<h1>HelpDesk Home Lab – Active Directory Setup & Domain Controller Promotion (Windows Server 2022)</h1>
+<h1>Helpdesk Home Lab – Active Directory Setup & Domain Controller Promotion (Windows Server 2022)</h1>
 
 <h2>Description</h2>
 This lab continues the HelpDesk home lab environment by configuring Active Directory Domain Services (AD DS) and promoting a Windows Server 2022 machine to a Domain Controller.
