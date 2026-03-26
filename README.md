@@ -1,9 +1,10 @@
 <h1>HelpDesk Home Lab – Active Directory Setup & Domain Controller Promotion (Windows Server 2022)</h1>
 
 <h2>Description</h2>
-This lab documents the installation of Windows Server 2022 in a virtual environment using Oracle VirtualBox. The goal of this Lab is to create a basic help desk lab environment that will be used for future Active Directory, domain configuration, and Windows 11 client integration labs.
+This lab documents the installation of Windows Server 2022 in a virtual environment using Oracle VirtualBox. The goal of this Lab is to create a basic help desk lab environment that will be used for future Active Directory, domain configuration,<br><br>
+and Windows 11 client integration labs.
 
-<br>
+</b>
 
 In this lab, the following tasks were completed:
 - <b>Rename the server for proper identification</b>
