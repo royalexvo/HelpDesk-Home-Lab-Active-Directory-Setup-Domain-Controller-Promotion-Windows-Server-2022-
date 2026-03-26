@@ -64,7 +64,7 @@ The system will automatically restart after promotion. Allow the server time to 
 <br/>
 Step 9 – Verify Domain Configuration<br/><br/>
 After logging back in, open Command Prompt and run commands such as whoami and systeminfo to confirm the server is part of the new domain and functioning as a Domain Controller: <br/>
-<img src="https://github.com/royalexvo/HelpDesk-Home-Lab-Active-Directory-Setup-Domain-Controller-Promotion-Windows-Server-2022-/blob/main/Step%208.png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
+<img src="https://github.com/royalexvo/HelpDesk-Home-Lab-Active-Directory-Setup-Domain-Controller-Promotion-Windows-Server-2022-/blob/main/Step%209(fix).png?raw=true" height="80%" width="80%" alt="Lab Steps"/>
 <br/>
 Step 10 – Confirm Active Directory Installation<br/><br/>
 Open Active Directory Users and Computers from Server Manager and verify that your domain (Myforest.com) is present and accessible: <br/>
